@@ -2,11 +2,13 @@
 
 - 👀 I’m interested in ...lot´s of things
 
-- 🌱 I’m currently learning Web-Full-Stack+REACT+NODEJS
+- 🌱 I’m currently learning Web-Full-Stack+REACT+NODEJS at UTN (Universidad Tecnologica Nacional)
 
 - 💞️ I’m looking to collaborate on ...full stack projects coming soon
 
-- 📫 How to reach me : linkedin.com/in/juan-felix-363a7585
+- 📫 How to reach me : 
+- email: juan11235felix@gmail.com
+- linkedin.com/in/juan-felix-363a7585
 
 
 
